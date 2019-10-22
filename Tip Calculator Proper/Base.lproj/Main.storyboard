@@ -10,7 +10,8 @@
         <!--View Controller-->
         <scene sceneID="SN2-PQ-NFk">
             <objects>
-                <viewController id="sSF-sW-KCd" customClass="ViewController" customModule="Tip_Calculator" customModuleProvider="target" sceneMemberID="viewController">
+                <placeholder placeholderIdentifier="IBFirstResponder" id="00g-Q8-tVC" sceneMemberID="firstResponder"/>
+                <viewController id="sSF-sW-KCd" customClass="ViewController" customModule="Tip_Calculator_Proper" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="NRu-Rk-QJU">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -127,9 +128,8 @@
                         <outlet property="totalTipLabel" destination="hk5-Hn-6um" id="MhA-SF-xvc"/>
                     </connections>
                 </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="00g-Q8-tVC" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="138.40000000000001" y="109.29535232383809"/>
+            <point key="canvasLocation" x="207" y="88"/>
         </scene>
     </scenes>
 </document>
